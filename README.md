@@ -8,9 +8,9 @@
 - Fun fact: I've seen Wicked 7 times (and every time has been as magical as the last).
 
 ### Contact me:
-[linkedin]: https://www.linkedin.com/in/shuna-mccallum/
+[<img align="left" alt="shuna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [linkedin]
 
-# Languages and Tools I use:
+### Languages and Tools I use:
 - Python and Flask
 - JavaScript and ReactJS
 - Java
@@ -19,3 +19,4 @@
 
 <br />
 
+[linkedin]: https://www.linkedin.com/in/shuna-mccallum/
