@@ -1,22 +1,24 @@
-## Hi there!
+## Hi there! :wave:
 
 ### I'm Shuna, an ex-musician-turned-coder, avid cylist and all-round massive geek!
-- I'm currently studying on the 16-week Professional Software Development bootcamp with CodeClan in Glasgow - graduating on 19 August 2022.
-- I'm also building up my portfolio website which I will be deploying very soon...
-- I've learned a heck of a lot about Python, JavaScript, Java and related technologies over the past couple of months - and I'm eager to learn more!
-- I'm itching to get started with my career in tech!
-- Fun fact: I've seen Wicked 7 times (and every time has been as magical as the last).
+:books: I'm currently studying on the 16-week Professional Software Development bootcamp with CodeClan in Glasgow - graduating on 19 August 2022.
+:computer: I'm also building up my portfolio website which I will be deploying very soon...
+:books: I've learned a heck of a lot about Python, JavaScript, Java and related technologies over the past couple of months - and I'm eager to learn more!
+:computer: I'm itching to get started with my career in tech!
+:star2: Fun fact  :star2: : I've seen Wicked 7 times (and every time has been as magical as the last).
 
 ### Contact me:
-[<img align="left" alt="shuna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [linkedin]
+![linkedin]("https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png")[1]
 
 ### Languages and Tools I use:
-- Python and Flask
-- JavaScript and ReactJS
+![python]("https://flyclipart.com/thumb2/python-language-logo-icons-png-205868.png") Python
+![flask]("https://flyclipart.com/thumbs/python-logo-clipart-drawing-flask-1172565.png") Flask
+- JavaScript
+- ReactJS
 - Java
 - SQLite
 - MongoDB
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/shuna-mccallum/
+[1]: https://www.linkedin.com/in/shuna-mccallum/
