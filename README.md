@@ -10,17 +10,18 @@
 I am currently looking for work so please do contact me if you like the look of my projects!
 
 ### Contact me:
-[LinkedIn][<img alt="linkedin" width="22px" src="https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png" />]
+[<img alt="linkedin" width="22px" src="https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png" />][<img alt="linkedin" width="22px" src="https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png" />]
 
 ### Languages and Tools I use:
 <img alt="python" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" /> Python <br />
-- Flask
-- JavaScript
-- ReactJS
-- Java
-- SQLite
-- MongoDB
+<img alt="flask" width="22px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.png" /> Flask <br />
+<img alt="js" width="22px" src="https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" /> JavaScript <br />
+<img alt="react" width="22px" src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg" /> ReactJS <br />
+<img alt="java" width="22px" src="https://banner2.cleanpng.com/20180805/iot/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-%C3%96mer-5b6766ab2d98b8.1809687115335031471868.jpg" /> Java <br />
+<img alt="sqlite" width="22px" src="https://e7.pngegg.com/pngimages/778/255/png-clipart-sqlite-database-android-mysql-android-text-logo-thumbnail.png" /> SQLite <br />
+<img alt="mongo" width="22px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" /> MongoDB
 
 <br />
 
 [<img alt="linkedin" width="22px" src="https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png" />]: https://www.linkedin.com/in/shuna-mccallum/
+
