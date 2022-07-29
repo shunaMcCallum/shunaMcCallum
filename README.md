@@ -11,7 +11,7 @@
 ![linkedin]("https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png")[1]
 
 ### Languages and Tools I use:
-![python]("https://flyclipart.com/thumb2/python-language-logo-icons-png-205868.png") Python
+![python]("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png") Python
 ![flask]("https://flyclipart.com/thumbs/python-logo-clipart-drawing-flask-1172565.png") Flask
 - JavaScript
 - ReactJS
