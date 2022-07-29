@@ -11,6 +11,7 @@ I am currently looking for work so please do contact me if you like the look of 
 
 ### Contact me:
 [<img alt="linkedin" width="26px" src="https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png" />][<img alt="linkedin" width="26px" src="https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png" />]
+   <img alt="gmail> width="26px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" /> shuna.mccallum@gmail.com
 
 ### Languages and Tools I use:
 <img alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" /> Python <br />
