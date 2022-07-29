@@ -10,11 +10,11 @@
 I am currently looking for work so please do contact me if you like the look of my projects!
 
 ### Contact me:
-[LinkedIn]("https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png")[1]
+[<img alt="linkedin" src="https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png" />][LinkedIn]
 
 ### Languages and Tools I use:
-Python [<img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />]
-![flask]("https://flyclipart.com/thumbs/python-logo-clipart-drawing-flask-1172565.png") Flask
+- Python
+- Flask
 - JavaScript
 - ReactJS
 - Java
