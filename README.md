@@ -10,10 +10,10 @@
 I am currently looking for work so please do contact me if you like the look of my projects!
 
 ### Contact me:
-[<img alt="linkedin" src="https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png" />][LinkedIn]
+[LinkedIn][<img alt="linkedin" width="22px" src="https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png" />]
 
 ### Languages and Tools I use:
-- Python
+<img alt="python" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" /> Python <br />
 - Flask
 - JavaScript
 - ReactJS
@@ -23,4 +23,4 @@ I am currently looking for work so please do contact me if you like the look of 
 
 <br />
 
-[1]: https://www.linkedin.com/in/shuna-mccallum/
+[<img alt="linkedin" width="22px" src="https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png" />]: https://www.linkedin.com/in/shuna-mccallum/
