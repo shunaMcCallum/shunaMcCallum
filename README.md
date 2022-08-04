@@ -19,4 +19,5 @@
 
 <br />
 
-
+[<img alt="linkedin" width="26px" src="https://www.freeiconspng.com/uploads/linkedin-linkedin-icon-flat-icon-linkedin-png-social-icon-png-11.png" />]: https://www.linkedin.com/in/shuna-mccallum/
+[<img alt="gmail" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />] shuna.mccallum@gmail.com
