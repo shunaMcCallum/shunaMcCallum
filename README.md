@@ -1,8 +1,8 @@
 ## Hi there! :wave:
 
 ### I'm Shuna, an ex-musician-turned-coder, avid cylist and a great Googler. 
-:books: I'm currently studying on the Professional Software Development bootcamp with CodeClan - graduating on 19 August 2022. <br />
-:books: I've learned so much about programming over the past couple of months - and I'm eager to learn more! <br />
+:books: I recently finished the Professional Software Development bootcamp with CodeClan. <br />
+:books: I've learned so much about programming over the past few months and I'm eager to learn more! <br />
 :computer: I'm itching to get started with my career in tech! <br />
 
 ### Contact me:
